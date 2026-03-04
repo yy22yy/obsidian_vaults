@@ -1,0 +1,338 @@
+{
+  "main": {
+    "id": "12c4b633e8b78839",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe1dd875506972e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68ad708899e84ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cout"
+            }
+          },
+          {
+            "id": "2a2a3b21e5aa834a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASCII码.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASCII码"
+            }
+          },
+          {
+            "id": "97d5d46473aa012f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "常用库与开头.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "常用库与开头"
+            }
+          },
+          {
+            "id": "59311d105016d994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "随机游走.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "随机游走"
+            }
+          },
+          {
+            "id": "4d2f373c583202eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "不同路径.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "不同路径"
+            }
+          },
+          {
+            "id": "4c891675c5c2f82c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "题单.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "题单"
+            }
+          },
+          {
+            "id": "b1b85a26d8a8f555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P1789 【Mc生存】插火把.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "P1789 【Mc生存】插火把"
+            }
+          },
+          {
+            "id": "85064d35d10daf54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "62 不同路径.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "62 不同路径"
+            }
+          },
+          {
+            "id": "959fc0898bacc3a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "组合数学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "组合数学"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89ee7333786d3c31",
+    "type": "split",
+    "children": [
+      {
+        "id": "64c66d53a3deb9d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b0210d05d54413f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "196ede1be16881c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8a9b24cff1010dca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5863821f8a497d5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffa53762f3dc198a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f50fb6c830d737e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "62 不同路径.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "62 不同路径 的反向链接列表"
+            }
+          },
+          {
+            "id": "6936023b13d2c044",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数组.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "数组 的出链列表"
+            }
+          },
+          {
+            "id": "ab90f75eec5dfb18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6351dfecf21838d8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "790ef0b13ec4460d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数组.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "数组 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "85064d35d10daf54",
+  "lastOpenFiles": [
+    "Pasted image 20260303135842.png",
+    "P1789 【Mc生存】插火把.md",
+    "62 不同路径.md",
+    "组合数学.md",
+    "图像卷积.md",
+    "Pasted image 20260303132801.png",
+    "Pasted image 20260303132601.png",
+    "矩阵.md",
+    "数组.md",
+    "常用库与开头.md",
+    "不同路径.md",
+    "动态规划.md",
+    "随机游走.md",
+    "区间计算.md",
+    "前缀和 prefix sum.md",
+    "题单.md",
+    "P1102 A-B 数对.md",
+    "类型转换.md",
+    "P2804 Mysterious Number.md",
+    "运行时间估计.md",
+    "cout.md",
+    "auto it.md",
+    "查找.md",
+    "1689 十进制.md",
+    "字符串.md",
+    "Hash.md",
+    "一些常用技巧.md",
+    "ASCII码.md",
+    "Pasted image 20260301141317.png",
+    "Pasted image 20260301141305.png",
+    "Pasted image 20260301112955.png",
+    "Pasted image 20260301112952.png",
+    "Pasted image 20260301112912.png",
+    "Pasted image 20260301112832.png",
+    "1689 十",
+    "Pasted image 20260212235513.png"
+  ]
+}
