@@ -8,49 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f3785a24a86141a",
+            "id": "05bd6e786838bdf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "Socket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "Socket"
             }
           },
           {
-            "id": "fa47087427bb9d56",
+            "id": "f851fb20421143cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICMP.md",
+                "file": "协议栈.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICMP"
+              "title": "协议栈"
             }
           },
           {
-            "id": "97327f241daacbe2",
+            "id": "ccfb3d467b4190ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCPIP模型.md",
+                "file": "TCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCPIP模型"
+              "title": "TCP"
+            }
+          },
+          {
+            "id": "99fffaa62fc50b55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "包过滤防火墙.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "包过滤防火墙"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "008e14ad96bf8bfb",
@@ -212,10 +226,24 @@
       "bases:新建数据库": false
     }
   },
-  "active": "97327f241daacbe2",
+  "active": "99fffaa62fc50b55",
   "lastOpenFiles": [
-    "ICMP.md",
+    "TCP.md",
+    "包过滤防火墙.md",
+    "协议栈.md",
+    "Pasted image 20260305134433.png",
+    "Socket.md",
+    "Pasted image 20260305131556.png",
+    "Pasted image 20260305131003.png",
+    "DNS.md",
+    "DNS解析过程.md",
+    "DNS缓存中毒.md",
+    "现代数据包加密（Modern Packet Encryption）.md",
+    "浏览器生成消息.md",
+    "HTTP.md",
     "TCPIP模型.md",
-    "欢迎.md"
+    "ICMP.md",
+    "欢迎.md",
+    "Pasted image 20260304150749.png"
   ]
 }
