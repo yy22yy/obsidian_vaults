@@ -1,0 +1,1 @@
+- InferenceClient → Hugging Face 提供的**推理客户端**，用于调用云端 AI 模型（如文生图、文本生成等），无需本地部署
