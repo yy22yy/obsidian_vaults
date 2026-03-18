@@ -14,3 +14,5 @@ DNS = 分布式数据库 + 缓存系统
 - DNS over [[TLS]]
 - DNS over [[HTTPS]]
 
+![[Pasted image 20260315192737.png]]
+

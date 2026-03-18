@@ -8,35 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05bd6e786838bdf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Socket.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Socket"
-            }
-          },
-          {
-            "id": "f851fb20421143cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "协议栈.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "协议栈"
-            }
-          },
-          {
-            "id": "ccfb3d467b4190ec",
+            "id": "2bcd03a5d4bed6d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +22,35 @@
             }
           },
           {
-            "id": "99fffaa62fc50b55",
+            "id": "df4c91f59dcf3bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPSec VPN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IPSec VPN"
+            }
+          },
+          {
+            "id": "3d9ee8479a1bfb13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DNS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DNS"
+            }
+          },
+          {
+            "id": "1220dac6302190e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,91 +64,21 @@
             }
           },
           {
-            "id": "2f7f1b325abf234a",
+            "id": "3e8329733ea4ae24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "包过滤防火墙.md",
+                "file": "网络扫描.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "包过滤防火墙"
-            }
-          },
-          {
-            "id": "aa4b1cdef27fe2e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NAT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NAT"
-            }
-          },
-          {
-            "id": "52994230ea41a078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DMZ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DMZ"
-            }
-          },
-          {
-            "id": "2bcd03a5d4bed6d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "防火墙体系结构模型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "防火墙体系结构模型"
-            }
-          },
-          {
-            "id": "3b5c4a492b908870",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDS 入侵检测系统.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IDS 入侵检测系统"
-            }
-          },
-          {
-            "id": "77754d8dfce05227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VPN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VPN"
+              "title": "网络扫描"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -205,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 201.5
   },
   "right": {
     "id": "008e14ad96bf8bfb",
@@ -310,36 +240,43 @@
       "bases:新建数据库": false
     }
   },
-  "active": "77754d8dfce05227",
+  "active": "3e8329733ea4ae24",
   "lastOpenFiles": [
-    "IDS 入侵检测系统.md",
-    "VPN.md",
-    "Pasted image 20260307205946.png",
-    "Pasted image 20260307203848.png",
-    "Pasted image 20260307203835.png",
-    "Pasted image 20260307203003.png",
-    "Pasted image 20260307202953.png",
-    "Pasted image 20260307202947.png",
-    "防火墙体系结构模型.md",
-    "DMZ.md",
-    "Pasted image 20260306173918.png",
-    "NAT.md",
+    "Pasted image 20260316105513.png",
+    "Pasted image 20260316104457.png",
+    "入侵计算机步骤.md",
+    "网络扫描.md",
+    "Pasted image 20260316103713.png",
     "包过滤防火墙.md",
-    "Pasted image 20260306172604.png",
-    "Pasted image 20260306144946.png",
-    "Pasted image 20260306144933.png",
-    "AI驱动型防火墙.md",
+    "tcpdump wireshark.md",
+    "XSS.md",
+    "Pasted image 20260315195218.png",
+    "DNS.md",
+    "Pasted image 20260315192737.png",
+    "未命名.md",
+    "IPSec VPN.md",
+    "Pasted image 20260311173934.png",
+    "Pasted image 20260311171600.png",
+    "IKE.md",
+    "IPsec.md",
+    "Pasted image 20260311161220.png",
+    "ESP.md",
+    "Pasted image 20260311160815.png",
+    "Pasted image 20260311160751.png",
+    "Pasted image 20260311160718.png",
+    "VPN.md",
+    "SA.md",
+    "防火墙习题.md",
     "TCP.md",
+    "防火墙体系结构模型.md",
+    "NAT.md",
     "协议栈.md",
     "Socket.md",
-    "DNS.md",
+    "DMZ.md",
+    "IDS 入侵检测系统.md",
+    "AI驱动型防火墙.md",
     "DNS解析过程.md",
     "DNS缓存中毒.md",
-    "现代数据包加密（Modern Packet Encryption）.md",
-    "浏览器生成消息.md",
-    "HTTP.md",
-    "TCPIP模型.md",
-    "ICMP.md",
-    "欢迎.md"
+    "现代数据包加密（Modern Packet Encryption）.md"
   ]
 }
