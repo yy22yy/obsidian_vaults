@@ -1,112 +1,90 @@
 {
   "main": {
-    "id": "ee26c1c5a47d6c6a",
+    "id": "412b75a526441dd4",
     "type": "split",
     "children": [
       {
-        "id": "bf9fafaccb1fdf5b",
+        "id": "01c7de82ca29deb7",
         "type": "tabs",
         "children": [
           {
-            "id": "eb37fe3e43c1608b",
+            "id": "8fbcd136c3d402b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI安全.md",
+                "file": "欢迎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI安全"
+              "title": "欢迎"
             }
           },
           {
-            "id": "fbb4ca302c9116ab",
+            "id": "8910de56a5e34d35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "token序列.md",
+                "file": "具体搭建过程和代码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "token序列"
+              "title": "具体搭建过程和代码"
             }
           },
           {
-            "id": "db4746ced6bc2ebe",
+            "id": "92dd1802dfd839b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "注意力机制.md",
+                "file": "Hexo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "注意力机制"
-            }
-          },
-          {
-            "id": "57be0829a1841601",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性回归.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "线性回归"
-            }
-          },
-          {
-            "id": "8103e2d35e4cb058",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SVD分解.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SVD分解"
-            }
-          },
-          {
-            "id": "61cbaa96c8dbbb07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "Hexo"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
+      },
+      {
+        "id": "bcb557f06c6bbecf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60baf9815cdb26c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hexo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hexo"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7f45caa60230d04d",
+    "id": "7cc60e4b27f8b754",
     "type": "split",
     "children": [
       {
-        "id": "a787d433227ea3cd",
+        "id": "0dc7e725ed35d9ee",
         "type": "tabs",
         "children": [
           {
-            "id": "69a691e5994415e6",
+            "id": "799166478484e8b0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -119,7 +97,7 @@
             }
           },
           {
-            "id": "1e83d6fb46f92908",
+            "id": "0411dbbd3a5a7b1f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -136,7 +114,7 @@
             }
           },
           {
-            "id": "196cd489c446fe65",
+            "id": "62afb6cc4db4e547",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -152,20 +130,20 @@
     "width": 200
   },
   "right": {
-    "id": "8193ba6a497dd97a",
+    "id": "ea924111e70ebb8d",
     "type": "split",
     "children": [
       {
-        "id": "83a8715efa7431a7",
+        "id": "a6a1393658ea1ed1",
         "type": "tabs",
         "children": [
           {
-            "id": "32012d033e0a321e",
+            "id": "6a6edf3d660d3890",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "毕业论文总览.md",
+                "file": "具体搭建过程和代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,25 +153,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "毕业论文总览 的反向链接列表"
+              "title": "具体搭建过程和代码 的反向链接列表"
             }
           },
           {
-            "id": "501053b8519b0fec",
+            "id": "0f5140b13ad5f97a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "毕业论文总览.md",
+                "file": "具体搭建过程和代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "毕业论文总览 的出链列表"
+              "title": "具体搭建过程和代码 的出链列表"
             }
           },
           {
-            "id": "860a45e1b4f0087b",
+            "id": "4454e922af36757c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -208,7 +186,7 @@
             }
           },
           {
-            "id": "94bf2daef3dee3db",
+            "id": "8e93dbfcdcc11011",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -222,18 +200,18 @@
             }
           },
           {
-            "id": "93c004c8afd5a789",
+            "id": "28c6da4caec58994",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "毕业论文总览.md",
+                "file": "具体搭建过程和代码.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "毕业论文总览 的大纲"
+              "title": "具体搭建过程和代码 的大纲"
             }
           }
         ]
@@ -254,43 +232,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "8103e2d35e4cb058",
+  "active": "8910de56a5e34d35",
   "lastOpenFiles": [
-    "Pasted image 20260319161646.png",
-    "Pasted image 20260319161603.png",
-    "Pasted image 20260319161506.png",
-    "Pasted image 20260319161441.png",
-    "线性回归.md",
-    "SVD分解.md",
-    "最小二乘法.md",
-    "Pasted image 20260319160851.png",
-    "Pasted image 20260319160813.png",
-    "注意力机制.md",
-    "RAG中的文档.md",
-    "RAG.md",
-    "token序列.md",
-    "深度学习.md",
-    "AI安全.md",
-    "API调用AI.md",
-    "Prompt Injection提示词注入.md",
-    "对抗样本攻击.md",
-    "Hugging Face.md",
-    "AI Agent.md",
-    "寄存器.md",
-    "汇编语言09.md",
-    "预训练.md",
-    "AI热门概念.md",
-    "AI架构的发展.md",
-    "毕业论文总览.md",
-    "softmax.md",
-    "AI.md",
-    "InferenceClient.md",
-    "temperature.md",
-    "数据标注.md",
-    "Pasted image 20260305152451.png",
-    "Pasted image 20260304105613.png",
-    "Pasted image 20260304104722.png",
-    "Pasted image 20260304093231.png",
-    "Pasted image 20260304092614.png"
+    "Hexo.md",
+    "具体搭建过程和代码.md",
+    "GitHub Pages.md",
+    "npm.md",
+    "NexT.md",
+    "初始搭建思路.md",
+    "欢迎.md"
   ]
 }
