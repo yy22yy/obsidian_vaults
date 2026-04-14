@@ -1,112 +1,41 @@
 {
   "main": {
-    "id": "412b75a526441dd4",
+    "id": "c9709e0ec629792a",
     "type": "split",
     "children": [
       {
-        "id": "01c7de82ca29deb7",
+        "id": "4c4f6a9cb1f5c2b8",
         "type": "tabs",
         "children": [
           {
-            "id": "8fbcd136c3d402b2",
+            "id": "9c56ee959b03577d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "2026-04-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          },
-          {
-            "id": "8910de56a5e34d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "config.yml.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "config.yml"
-            }
-          },
-          {
-            "id": "a2fc604bac978a58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-03-27.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-27"
-            }
-          },
-          {
-            "id": "754aeb1130636796",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "常见的Hexo命令.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "常见的Hexo命令"
-            }
-          },
-          {
-            "id": "cd6bf70c99baa5d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROUND函数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ROUND函数"
-            }
-          },
-          {
-            "id": "db5453fe36940409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "config.yml.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "config.yml"
+              "title": "2026-04-14"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7cc60e4b27f8b754",
+    "id": "9f0e1519fe2ac8a3",
     "type": "split",
     "children": [
       {
-        "id": "0dc7e725ed35d9ee",
+        "id": "c1dd0184520b7d0d",
         "type": "tabs",
         "children": [
           {
-            "id": "799166478484e8b0",
+            "id": "656f620a7e9d4dc2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -119,7 +48,7 @@
             }
           },
           {
-            "id": "0411dbbd3a5a7b1f",
+            "id": "6552b2146e109efb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -136,7 +65,7 @@
             }
           },
           {
-            "id": "62afb6cc4db4e547",
+            "id": "b4e746c323518300",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -149,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "ea924111e70ebb8d",
+    "id": "b2b35eb3bdea1584",
     "type": "split",
     "children": [
       {
-        "id": "a6a1393658ea1ed1",
+        "id": "4daed1f73426d3fb",
         "type": "tabs",
         "children": [
           {
-            "id": "6a6edf3d660d3890",
+            "id": "39daf6d6b345df18",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "具体搭建过程和代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "具体搭建过程和代码 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "0f5140b13ad5f97a",
+            "id": "ed74db11207278f9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "具体搭建过程和代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "具体搭建过程和代码 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "4454e922af36757c",
+            "id": "4d0fa90924483351",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -208,7 +135,7 @@
             }
           },
           {
-            "id": "8e93dbfcdcc11011",
+            "id": "16751b0c954e246c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -222,18 +149,17 @@
             }
           },
           {
-            "id": "28c6da4caec58994",
+            "id": "9cd764bd6d7cd2b6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "具体搭建过程和代码.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "具体搭建过程和代码 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -254,27 +180,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "cd6bf70c99baa5d0",
+  "active": "656f620a7e9d4dc2",
   "lastOpenFiles": [
-    "SQL.md",
-    "ROUND函数.md",
-    "数据库学习 sql.md",
-    "常见的Hexo命令.md",
-    "GitHub Pages.md",
-    "dynamic blog动态blog.md",
-    "2026-03-27.md",
-    "更新操作.md",
-    "config.yml.md",
-    "Pasted image 20260327215901.png",
-    "Pasted image 20260327213637.png",
-    "Pasted image 20260327213631.png",
-    "具体搭建过程和代码.md",
-    "欢迎.md",
-    "Hexo doc的阅读.md",
-    "Pasted image 20260327194825.png",
-    "Hexo.md",
-    "npm.md",
-    "NexT.md",
-    "初始搭建思路.md"
+    "2026-04-14.md",
+    "论文生成大法.md",
+    "欢迎.md"
   ]
 }
